@@ -1,6 +1,6 @@
 {
-  "apiBaseUrl": "",
-  "active": false,
-  "updatedAt": "",
+  "apiBaseUrl": "https://cases-located-killing-queue.trycloudflare.com/v1",
+  "active": true,
+  "updatedAt": "2026-02-28T02:10:44.009Z",
   "source": "part3-desktop-public"
 }
